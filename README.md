@@ -29,7 +29,7 @@ This project uses Google Earth Engine to perform Land Use and Land Cover (LULC) 
 
 ## Sample Result
 
-[Insert your image result here]
+<img src=ghana_classified.png>
 
 ## Code Structure
 
