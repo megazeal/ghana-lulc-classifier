@@ -1,4 +1,4 @@
-# Ghana Land Use and Land Cover (LULC) Classification Using Earth Engine
+# Geospatial Land Use and Land Cover Classification of Ghana Using Machine Learning and Remote Sensing
 
 ## Project Overview
 
