@@ -3,8 +3,6 @@
 ## Project Overview
 This project performs Land Use and Land Cover (LULC) classification for Ghana using Google Earth Engine through both JavaScript (GEE Code Editor) and Python (geemap) implementations. It processes Sentinel-2 or Landsat 8 imagery and applies machine learning algorithms to classify land into different categories: dense vegetation, settlements, bareland, water, and light vegetation.
 
-![Land Cover Classification Sample](samples/land_cover_classification.png)
-
 ## Features
 - Processes both Sentinel-2 and Landsat 8 imagery
 - Implements multiple classification algorithms (CART, Random Forest, Naive Bayes, SVM)
@@ -62,7 +60,7 @@ classified_image = perform_classification(
 ```
 
 ## Sample Results
-![Classification Results](samples/classification_results.png)
+![Classification Results](ghana_classified.png)
 
 ## Code Structure
 
@@ -146,9 +144,6 @@ You can customize this project by:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-[Specify your license here]
 
 ## Contact
 [courage]
