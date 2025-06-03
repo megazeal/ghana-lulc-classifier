@@ -152,4 +152,4 @@ You can customize this project by:
 ## Acknowledgments
 - Google Earth Engine team
 - geemap developers
-- Contributors to the training dataset
+- Contributors to the training dataset.
